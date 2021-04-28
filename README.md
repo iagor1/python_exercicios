@@ -1,2 +1,2 @@
 # python_exercicios
-alguns exercícios basicos de python, só deixando aq pra não perder por aí
+alguns exercícios basicos de python da playlist do Curso Em Vídeo.
