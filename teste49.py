@@ -13,5 +13,8 @@ while not acertou :
     qtdTentativas +=1
 
     if tentativa == sorteado : 
-        acertou = True        
+        acertou = True
+    else:
+        if tentativa < sorteado: print('tente um numero maior...')
+        elif tentativa > sorteado: print('tente um numero menor...')        
 print('acertou miseravi, você demorou  vezes pra acertar.',qtdTentativas) 
