@@ -1,6 +1,6 @@
 print('digite valores, pra parar digite 999.')
 
-num = c = soma = 0 
+num = c = soma = 0 # essa gambiarra foi antes da aula de break 
 
 while num != 999:
     num= int(input('digite um número : '))
