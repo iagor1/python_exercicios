@@ -1,4 +1,4 @@
 # tirando preferências do meu vscode
-python_exercicios/vscode/*
+/.vscode
 
-python_exercicios/teste.py/*
+python_exercicios/teste.py/
